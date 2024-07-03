@@ -1,5 +1,6 @@
 ## Hi, I'm Ruhul Amin 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulaminWAD&layout=compact)
 <!--
 **ruhulaminWAD/ruhulaminWAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
