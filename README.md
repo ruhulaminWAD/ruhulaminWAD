@@ -1,4 +1,4 @@
-## Hi, I'm Ruhul Amin 👋
+<!-- ## Hi, I'm Ruhul Amin 👋 -->
 [<img src='https://github.com/ruhulaminWAD/ruhulaminWAD/blob/main/img/bg.png?raw=true' alt='Ruhul Amin'>](https://github.com/ruhulaminWAD/)
 
 ## 🚀 About Me
