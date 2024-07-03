@@ -1,4 +1,5 @@
 ## Hi, I'm Ruhul Amin 👋
+[<img src='https://github.com/ruhulaminWAD/ruhulaminWAD/blob/main/img/bg.jpg?raw=true' alt='Ali Hossain'>](https://github.com/ruhulaminWAD/)
 
 ## 🚀 About Me
 Hi! I'm Ruhul Amin. Confident in succeeding in development programming, I am a self-motivated, hard-working learner with a passion for software and application development. I continually enhance my skills to achieve my goals.
