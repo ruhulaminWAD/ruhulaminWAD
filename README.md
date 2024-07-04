@@ -12,7 +12,7 @@ I am proficient in PHP, MySQL, Laravel, Livewire, HTML, CSS, Bootstrap, WordPres
 ✅ PHP <br>
 ✅ laravel <br>
 ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
-✅ Photoshop / Illustrator <br>
+✅ Photoshop / Illustrator / Canva <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulaminWAD&layout=compact)
 <!--
